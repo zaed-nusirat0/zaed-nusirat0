@@ -130,9 +130,3 @@ Developed a model for classifying spam emails using NLP techniques.
 ---
 
 <br>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=zaid-nserat&show_icons=true&locale=en&layout=compact" alt="zaid-nserat" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=zaid-nserat&show_icons=true&locale=en" alt="zaid-nserat" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=zaid-nserat&" alt="zaid-nserat" /></p>
