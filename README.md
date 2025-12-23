@@ -1,6 +1,6 @@
 ![MasterHead](https://i.redd.it/bpxxqqvps4h91.gif)
 <h1 align="center">Hi 👋, I'm Zaid Nusirat</h1>
-<h3 align="center">Data Scientist & AI Student</h3>
+<h3 align="center">Data Scientist, AI Student & Full Stack Developer</h3>
 
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/ee/ed/e2/eeede229147eb053fe863ef1cc7faf0b.gif" />
 
@@ -12,9 +12,9 @@
 
 ### 👨‍💻 About Me:
 - 📋 **Resume**: Check out My Resume [**here**](file:///C:/Users/lenovo/Downloads/blue%20professional%20modern%20CV%20resume%20(1).pdf)  
-- 💬 **Ask me about**: Data Science, Machine Learning, Deep Learning, AI  
+- 💬 **Ask me about**: Data Science, Machine Learning, Deep Learning, AI, Full Stack Development  
 - 📫 **Reach me at**: [zm463454@gmail.com](mailto:zm463454@gmail.com) | **+962 0786870002**  
-- ⚡ **Fun fact**: I’m constantly learning and improving my AI and data science skills!  
+- ⚡ **Fun fact**: I'm constantly learning and improving my AI, data science, and full stack development skills!  
 
 ---
 
@@ -58,6 +58,8 @@
 [![Machine Learning](https://img.shields.io/badge/Machine_Learning-FFD700?style=for-the-badge)](https://en.wikipedia.org/wiki/Machine_learning) [![Data Science](https://img.shields.io/badge/Data_Science-32CD32?style=for-the-badge)](https://en.wikipedia.org/wiki/Data_science) [![Data Engineering](https://img.shields.io/badge/Data_Engineering-1E90FF?style=for-the-badge)](https://en.wikipedia.org/wiki/Data_engineering)
 
 ---
+
+<br>
 
 ## 🖥️ Machine Learning Projects  
 
@@ -103,6 +105,17 @@ Developed a model for classifying spam emails using NLP techniques.
 ### 🖥️ Programming Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white)
+
+### 🌐 Full Stack Development
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat&logo=dotnet&logoColor=white)
+![ASP.NET](https://img.shields.io/badge/ASP.NET-5C2D91?style=flat&logo=dotnet&logoColor=white)
+
+### 🗄️ Database & Tools
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat&logo=oracle&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![Toad](https://img.shields.io/badge/Toad-00758F?style=flat&logo=database&logoColor=white)
 
 ### 🤖 Machine Learning & Data Science
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
