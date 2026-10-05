@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
-  <a href="https://linkedin.com/in/zaid-nserat-192a7a275"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/zaid-nusirat-192a7a275/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://kaggle.com/zaed2003"><img src="https://img.shields.io/badge/Kaggle_Expert-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" /></a>
   <a href="mailto:zm463454@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://github.com/zaed-nusirat0?tab=repositories"><img src="https://img.shields.io/badge/Projects-20%2B-7AA2F7?style=for-the-badge&logo=github&logoColor=white" /></a>
@@ -258,6 +258,32 @@ xychart-beta
 <p align="center">
   <img width="100%" src="https://ghchart.rshah.org/7aa2f7/zaed-nusirat0" alt="Contribution graph" />
 </p>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+<!-- ═══════════════════════════ CONTACT ═══════════════════════════ -->
+## 📫 Get In Touch
+
+<table align="center">
+<tr>
+<td align="center" width="33%">
+  <h3>📧</h3>
+  <b>Email</b><br/><br/>
+  <a href="mailto:zm463454@gmail.com"><img src="https://img.shields.io/badge/zm463454@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</td>
+<td align="center" width="33%">
+  <h3>📱</h3>
+  <b>Phone</b><br/><br/>
+  <img src="https://img.shields.io/badge/+962_78_687_0002-25D366?style=for-the-badge&logo=phone&logoColor=white" />
+</td>
+<td align="center" width="33%">
+  <h3>💼</h3>
+  <b>LinkedIn</b><br/><br/>
+  <a href="https://www.linkedin.com/in/zaid-nusirat-192a7a275/"><img src="https://img.shields.io/badge/Zaid_Nusirat-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+</td>
+</tr>
+</table>
+
 <!-- ═══════════════════════════ FOOTER ═══════════════════════════ -->
 <p align="center">
   <b>💬 Ask me about Data Science, Deep Learning, Computer Vision, Data Engineering & Full Stack Development</b>
