@@ -10,6 +10,10 @@
 </p>
 
 <p align="center">
+  <a href="https://zaed-nusirat0.github.io/"><img src="https://img.shields.io/badge/View_My_Portfolio-zaed--nusirat0.github.io-7AA2F7?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=1a1b27" alt="Portfolio" /></a>
+</p>
+
+<p align="center">
   <a href="https://www.linkedin.com/in/zaid-nusirat-192a7a275/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://kaggle.com/zaed2003"><img src="https://img.shields.io/badge/Kaggle_Expert-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" /></a>
   <a href="mailto:zm463454@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
@@ -266,17 +270,22 @@ xychart-beta
 
 <table align="center">
 <tr>
-<td align="center" width="33%">
+<td align="center" width="25%">
   <h3>📧</h3>
   <b>Email</b><br/><br/>
   <a href="mailto:zm463454@gmail.com"><img src="https://img.shields.io/badge/zm463454@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </td>
-<td align="center" width="33%">
+<td align="center" width="25%">
   <h3>📱</h3>
   <b>Phone</b><br/><br/>
   <img src="https://img.shields.io/badge/+962_78_687_0002-25D366?style=for-the-badge&logo=phone&logoColor=white" />
 </td>
-<td align="center" width="33%">
+<td align="center" width="25%">
+  <h3>🌐</h3>
+  <b>Portfolio</b><br/><br/>
+  <a href="https://zaed-nusirat0.github.io/"><img src="https://img.shields.io/badge/Visit_Website-7AA2F7?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
+</td>
+<td align="center" width="25%">
   <h3>💼</h3>
   <b>LinkedIn</b><br/><br/>
   <a href="https://www.linkedin.com/in/zaid-nusirat-192a7a275/"><img src="https://img.shields.io/badge/Zaid_Nusirat-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
